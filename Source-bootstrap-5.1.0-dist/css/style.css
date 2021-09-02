@@ -1,0 +1,33 @@
+h1
+{
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Impact;
+    /* margin-bottom: 60px; */
+}
+
+p
+{
+    font-size: 35px;
+}
+
+.displayBtn
+{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+.displayBtn:hover
+{
+    background-color: darkgreen;
+}
+
+.boxToDisplay
+{
+    height: 250px;
+    width: 500px;
+    background-color: aquamarine;
+}
+
