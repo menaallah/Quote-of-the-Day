@@ -15,13 +15,13 @@ p
 {
     width: 250px;
     height: 80px;
-    background-color: blue;
+    background-color: brown;
     color: white;
 }
 
 .displayBtn:hover
 {
-    background-color: darkgreen;
+    background-color: yellow;
 }
 
 .boxToDisplay
